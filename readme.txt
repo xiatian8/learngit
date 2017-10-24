@@ -3,7 +3,7 @@ Git is a free software distributed under the GPL
 Git has a nutabke index called stage
 Git tracks changes of files
 Creating a new branch is quick & simple
-
+In master
 
 
 
